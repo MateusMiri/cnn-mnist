@@ -1,13 +1,13 @@
 # CNN MNIST
 
 ## Integrantes:
-* Abel Mariani;
+* Abel Junior;
 * Benhur Machado;
 * Eduardo Rossatto.
 * Eri Tiecher;
 * Karine Haubert;
 * Mateus Miri;
-* Matheus Maschio;
+* Matheus de Lima Maschio;
 * Patrick Dutra;
 
 
