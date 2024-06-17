@@ -7,7 +7,7 @@
 * Eri Tiecher;
 * Karine Haubert;
 * Mateus Miri;
-* Matheus Maschio;
+* Matheus de Lima Maschio;
 * Patrick Dutra;
 
 
